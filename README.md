@@ -2,7 +2,7 @@
 
 Control a Starcraft Scout in gameplay similar to Raiden. Kill everything that moves.
 
-![Screenshot](https://github.com/timeblade0/starcraft_arcade_shooter_2/blob/main/screenshot.jpg)
+![Screenshot](https://github.com/timeblade0/starcraft_arcade_shooter_2/blob/gm5/screenshot.jpg)
 
 Controls:  
 -------------------------  
