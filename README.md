@@ -10,7 +10,7 @@ Arrow Keys = move
 Z = fire main weapon  
 A = bomb  
 X = tri shot (after purchase)  
-S = suport laser (after purchase)  
+S = super laser (after purchase)  
 
 Esc = Exit Game  
 Enter = pause  
