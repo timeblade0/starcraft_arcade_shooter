@@ -1,9 +1,9 @@
 # Starcraft Arcade Shooter #2
 
-10 Levels and bosses complete.
-Xinput controller support
-Enhanced graphics
-800x600 resolution
+10 Levels and bosses complete  
+Xinput controller support  
+Enhanced graphics  
+800x600 resolution  
 
 -------------------------
 
@@ -26,5 +26,5 @@ Left Analog = move
 Dpad = move  
 A = Laser  
 X = Bomb  
-B = Yamato
+B = Yamato  
 Start = pause  
