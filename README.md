@@ -1,9 +1,7 @@
-# Starcraft Arcade Shooter #2
+# Starcraft Arcade Shooter
 
 10 Levels and bosses complete  
 Xinput controller support  
-Enhanced graphics  
-800x600 resolution  
 
 -------------------------
 
@@ -11,20 +9,10 @@ Control a Starcraft Scout in gameplay similar to Raiden. Destroy the Zerg, Terra
 
 ![Screenshot](https://github.com/timeblade0/starcraft_arcade_shooter/blob/SCAS2-GMS2/screenshot.jpg)
 
-Controls Keyboard:  
+Controls:  
 -------------------------  
-Arrow Keys = move  
-Z = Laser  
-A = Bomb  
-Space = Yamato
-Esc = Exit Game  
-Enter = pause  
-
-Controls Xinput:  
--------------------------  
-Left Analog = move  
-Dpad = move  
-A = Laser  
-X = Bomb  
-B = Yamato  
-Start = pause  
+Arrow Keys / Left Analog / Dpad = move  
+Z / Gamepad A = Laser  
+A / Gamepad X = Bomb  
+Space/ Gamepad B = Yamato  
+Enter / Gamepad Start = pause  
