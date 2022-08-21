@@ -1,0 +1,6 @@
+carrier boss big hp bar
+guardian boss enemies spawn on same X
+
+level 11
+	finish design
+	create boss fight

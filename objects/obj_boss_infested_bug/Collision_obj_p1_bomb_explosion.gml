@@ -1,0 +1,1 @@
+//take damage from bomb instead of dieing

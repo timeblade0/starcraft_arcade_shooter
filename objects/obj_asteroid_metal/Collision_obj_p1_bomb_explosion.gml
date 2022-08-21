@@ -1,0 +1,1 @@
+//do not inhert destroy from bomb
